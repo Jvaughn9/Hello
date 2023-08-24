@@ -3,6 +3,7 @@
 int main(int argc, char **argv)
 {
 
-    printf("Jake Vaughn.\n")
-    
+    printf("Jake Vaughn!\n");
+    printf("My major is Data Science!\n);
+
 }
